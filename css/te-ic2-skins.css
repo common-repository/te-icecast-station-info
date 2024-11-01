@@ -1,0 +1,85 @@
+.te-ic2-default {}
+.te-ic2-rasta {
+	        height: 200px;
+            background-color: red; /* For browsers that do not support gradients */
+            background-image: linear-gradient(red, yellow, green); /* Standard syntax (must be last) */
+}
+.te-ic2-rasta h5 {color:white;}
+.te-ic2-rasta h6 {color:black;}
+.te-ic2-plain {
+	        height: 200px;
+            background-color: lightgrey; /* For browsers that do not support gradients */
+}
+.te-ic2-plain h5 {color:white;}
+.te-ic2-plain h6 {color:darkgrey;}
+.te-ic2-light {
+	        height: 200px;
+            background-color: white; /* For browsers that do not support gradients */
+}
+.te-ic2-light h5 {color:grey;}
+.te-ic2-light h6 {color:darkgrey;}
+.te-ic2-dark {
+	        height: 200px;
+            background-color: black; /* For browsers that do not support gradients */
+}
+.te-ic2-dark h5 {color:lightgrey;}
+.te-ic2-dark h6 {color:lightgrey;}
+.te-ic2-red {
+	        height: 200px;
+            background-color: red; /* For browsers that do not support gradients */
+}
+.te-ic2-red h5 {color:white;}
+.te-ic2-red h6 {color:black;}
+
+.te-ic2-green {
+	        height: 200px;
+            background-color: green; /* For browsers that do not support gradients */
+}
+.te-ic2-green h5 {color:white;}
+.te-ic2-green h6 {color:black;}
+
+.te-ic2-blue {
+	        height: 200px;
+            background-color: blue; /* For browsers that do not support gradients */
+}
+.te-ic2-blue h5 {color:white;}
+.te-ic2-blue h6 {color:black;}
+.te-ic2-orange {
+	        height: 200px;
+            background-color: orange; /* For browsers that do not support gradients */
+}
+.te-ic2-orange h5 {color:white;}
+.te-ic2-orange h6 {color:black;}
+.te-ic2-yellow {
+	        height: 200px;
+            background-color: orange; /* For browsers that do not support gradients */
+}
+.te-ic2-yellow h5 {color:white;}
+.te-ic2-yellow h6 {color:black;}
+.te-ic2-brown {
+	        height: 200px;
+            background-color: brown; /* For browsers that do not support gradients */
+}
+.te-ic2-brown h5 {color:white;}
+.te-ic2-brown h6 {color:black;}
+.te-ic2-skyblue {
+	        height: 200px;
+            background-color: skyblue; /* For browsers that do not support gradients */
+            background-image: linear-gradient(skyblue, aliceblue, skyblue); /* Standard syntax (must be last) */
+}
+.te-ic2-skyblue h5 {color:darkgrey;}
+.te-ic2-skyblue h6 {color:darkgrey;}
+.te-ic2-hexbg {
+	        height: 200px;
+            background-color: lightgrey; 
+            background-image: linear-gradient(lightgrey, white, darkgrey); 
+}
+.te-ic2-hexbg h5 {color:black;}
+.te-ic2-hexbg h6 {color:black;}
+.te-ic2-hexbg button {
+		        height: 200px;
+				width:100%;
+				color:gold;
+				background-image: url("http://cdn.backgroundhost.com/backgrounds/subtlepatterns/hixs_pattern_evolution.png");}
+.te-ic2-hexbg button:hover {opacity: 0.6}
+.te-ic2-custom {}
